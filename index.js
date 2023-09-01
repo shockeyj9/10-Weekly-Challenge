@@ -27,9 +27,8 @@ inquirer
       },
   ])
   .then((response) => {
-    console.log(render.init(response));
-//       fs.appendFile('logo.svg', render.init(response), (err) =>
-//     err ? console.error(err) : console.log('Generated logo.svg')
-//   )
-}
-);
+    render.init(response)
+    .then((data)=> fs.appendFile('logo.svg',data,(err) => {
+      if (err) throw err;
+    }));
+})

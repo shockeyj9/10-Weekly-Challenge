@@ -4,6 +4,9 @@
 
 This application creates a custom logo for end users.They are provided shape options to select from and the ability to add 3 characters to the logo.
 
+The code for this application is available at: https://github.com/shockeyj9/Simple-Logo-Generator
+The walkthrough video for this application is available at: 
+
 ## Table of Contents
 
   1. [ Description ](#description)

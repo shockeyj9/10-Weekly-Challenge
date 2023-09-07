@@ -1,11 +1,11 @@
-# Simple Logo Generator| 10 Weekly Challenge <div align="right"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88" height="20" role="img" aria-label="Liscense: MIT"><title>Liscense: MIT</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="88" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="57" height="20" fill="#555"/><rect x="57" width="31" height="20" fill="#007ec6"/><rect width="88" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="295" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="470">Liscense</text><text x="295" y="140" transform="scale(.1)" fill="#fff" textLength="470">Liscense</text><text aria-hidden="true" x="715" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="210">MIT</text><text x="715" y="140" transform="scale(.1)" fill="#fff" textLength="210">MIT</text></g></svg> </div>
+# Simple Logo Generator| 10 Weekly Challenge 
 
 ## Description
 
 This application creates a custom logo for end users.They are provided shape options to select from and the ability to add 3 characters to the logo.
 
 The code for this application is available at: https://github.com/shockeyj9/Simple-Logo-Generator
-The walkthrough video for this application is available at: 
+The walkthrough video for this application is available at: https://drive.google.com/file/d/1hT_JlbIeLBUGdVQbfGL0rOrFVaeZifOF/view?usp=drive_link
 
 ## Table of Contents
 
